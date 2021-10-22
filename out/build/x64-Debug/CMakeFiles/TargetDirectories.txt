@@ -1,3 +1,0 @@
-C:/Users/אלדר זריהן/source/repos/HelloWorld/out/build/x64-Debug/CMakeFiles/HelloWorld.dir
-C:/Users/אלדר זריהן/source/repos/HelloWorld/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/אלדר זריהן/source/repos/HelloWorld/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
